@@ -1,1 +1,3 @@
 Temporary file contents to read
+Adding line 1
+Adding line 2
